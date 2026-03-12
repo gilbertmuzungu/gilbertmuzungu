@@ -28,7 +28,7 @@ I work **full-time, contract, project-based, or fractional** — and I show up t
 ## What I Do
 
 ```
-Raw Data  →  SQL (Clean & Transform)  →  Power BI (Visualize)  →  Business Decisions
+Raw Data  →  SQL,Excel (Clean & Transform)  →  Power BI (Visualize)  →  Business Decisions
 ```
 
 | Capability | What It Means In Practice |
