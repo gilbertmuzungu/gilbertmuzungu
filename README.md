@@ -76,6 +76,14 @@ Built a full end-to-end pipeline: unified 3 years of transactional data (4,400+ 
 
 ---
 
+### [Data Cleaning Specialist — Claude AI Skill](https://github.com/gilbertmuzungu/claude-skills)
+
+> A dirty dataset is just an analysis waiting to happen — once someone actually fixes it.
+
+Built a production-ready custom Claude AI skill that automates the full data cleaning pipeline. The skill performs an 8-step workflow: structural repair, schema enforcement, deduplication, format standardization, missing value imputation (context-aware), outlier detection via IQR and Z-score, logical consistency checks, and statistical validation. Outputs a complete Python/Pandas script and a Cleanliness Report — rows removed, nulls filled, and every transformation logged.
+
+`Python` `Pandas` `Claude AI` `Prompt Engineering` `Data Cleaning` `Automation`
+---
 ### 🛒 [Retail Sales Analytics — SQL & Power BI](https://github.com/gilbertmuzungu/retail-sales-analytics-sql-powerbi)
 > *End-to-end global retail sales analysis combining three tools into one coherent analytical workflow.*
 
