@@ -85,14 +85,6 @@ Data cleaning in Excel → SQL transformation and KPI extraction → interactive
 
 ---
 
-### 🦠 [COVID-19 MySQL Data Analytics](https://github.com/gilbertmuzungu/covid19-mysql-data-analytics)
-> *Global pandemic data — case progression, death rates, and vaccination rollout — analyzed entirely in SQL.*
-
-Demonstrates advanced SQL skills: window functions, aggregations, and multi-table analysis on a large real-world public health dataset.
-
-`MySQL` `Window Functions` `Aggregation` `Public Health Data`
-
----
 
 ### 🎬 [Netflix SQL Analysis](https://github.com/gilbertmuzungu/netflix-sql-analysis)
 > *What does 8,000+ titles of catalog data reveal about content strategy?*
@@ -100,15 +92,6 @@ Demonstrates advanced SQL skills: window functions, aggregations, and multi-tabl
 Extracted business insights and content trends from Netflix's movie and TV catalog using structured SQL queries. Delivered strategic recommendations on catalog direction.
 
 `SQL` `Content Analysis` `Business Intelligence`
-
----
-
-### ⚽ [FIFA World Cup Excel Analysis](https://github.com/gilbertmuzungu/fifa-world-cup-excel-analysis)
-> *92 years of World Cup match data (1930–2022) turned into a performance intelligence dashboard.*
-
-PivotTables, calculated fields, and an interactive Excel dashboard uncovering key historical performance patterns across teams, tournaments, and eras.
-
-`Excel` `PivotTables` `Dashboard Design` `Sports Analytics`
 
 ---
 
